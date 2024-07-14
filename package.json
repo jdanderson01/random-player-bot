@@ -1,0 +1,17 @@
+{
+  "name": "random-player-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that generates a random NBA player when prompted.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  }
+}
